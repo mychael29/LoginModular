@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalCaseOne</string>
+    <string name="invalidInputEmail">Ingrese su Nickname por favor</string>
+    <string name="invalidInputPassword">Ingrese su Contraseña por favor</string>
+</resources>

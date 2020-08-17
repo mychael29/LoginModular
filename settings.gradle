@@ -1,0 +1,4 @@
+include ':business'
+include ':data'
+include ':app'
+rootProject.name = "PracticalCaseOne"
